@@ -1,4 +1,4 @@
 # miniCodingTest
 A coding test
-Hi Interviewer :
+Hi :
   The code is under the test folder.

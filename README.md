@@ -1,3 +1,2 @@
 # miniCodingTest
-Hi :
-  The code is under the test folder.
+Hi , the code is under the test folder.
